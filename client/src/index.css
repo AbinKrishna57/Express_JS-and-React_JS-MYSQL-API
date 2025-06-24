@@ -1,0 +1,15 @@
+:root {
+  /* background-image: url("assets/honeycomb-hexagons.jpg"); */
+  background-image: linear-gradient(#e3eed4, #9eb18a, #6e805b, #375534);
+  min-height: 100%;
+  height: auto;
+  /* background-size: auto; */
+  /* background-repeat: no-repeat; */
+  color: #0f2a1d;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  user-select: none;
+}
+
+::-webkit-scrollbar{
+  width: 0;
+}
